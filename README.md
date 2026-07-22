@@ -120,28 +120,18 @@ Built a local AI image generation setup using **ComfyUI** with **SDXL** and **LC
 
 ---
 
-## 📊 GitHub Stats
+## � Random Dev Quote
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macpanthor&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=macpanthor&theme=dark" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=macpanthor&theme=dark" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=macpanthor&theme=dark" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=macpanthor&theme=dark&hide_border=true&background=0D1117&stroke=00E6FF&ring=00E6FF&fire=00E6FF&currStreakLabel=00E6FF" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=macpanthor&theme=react-dark&bg_color=0D1117&hide_border=true&color=00E6FF&line=00E6FF&point=FFFFFF" />
+  <img src="https://raw.githubusercontent.com/macpanthor/macpanthor/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
