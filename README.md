@@ -136,7 +136,15 @@ Built a local AI image generation setup using **ComfyUI** with **SDXL** and **LC
 
 ---
 
-## 📫 Get In Touch
+## � GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=macpanthor&theme=dark&hide_border=true&background=0D1117&stroke=00E6FF&ring=00E6FF&fire=00E6FF&currStreakLabel=00E6FF" />
+</p>
+
+---
+
+## �📫 Get In Touch
 
 - 🌐 **Portfolio:** [macpanthor.github.io](https://macpanthor.github.io/)
 - 💼 **LinkedIn:** [shuaibahamad](https://www.linkedin.com/in/shuaibahamad)
