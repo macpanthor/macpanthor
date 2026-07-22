@@ -123,8 +123,13 @@ Built a local AI image generation setup using **ComfyUI** with **SDXL** and **LC
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macpanthor&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00E6FF&icon_color=00E6FF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macpanthor&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00E6FF" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macpanthor&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=macpanthor&theme=dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=macpanthor&theme=dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=macpanthor&theme=dark" height="165" />
 </p>
 
 <p align="center">
