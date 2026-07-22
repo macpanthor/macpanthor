@@ -26,7 +26,8 @@ I'm a student at **Albukhary International University (AIU), Malaysia**, passion
 - 🎓 **University:** Albukhary International University (AIU)
 - 📍 **Location:** Malaysia
 - 🎯 **Focus:** Cybersecurity & Full-Stack Web Development
-- 🔭 **Currently Working On:** ESP32 Eye Tracking Project
+- �️ **GitHub Age:** Joined Dec 7, 2021 — ~4.5 years young! 🎂
+- �🔭 **Currently Working On:** ESP32 Eye Tracking Project
 - 🌱 **Learning:** Embedded Systems & Computer Vision
 - ⚡ **Fun Fact:** I built a custom RGB LED desk with 330 WS2812B LEDs controlled by ESP32!
 
@@ -127,7 +128,7 @@ Built a local AI image generation setup using **ComfyUI** with **SDXL** and **LC
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=macpanthor&theme=dark&hide_border=true&background=0D1117&stroke=00E6FF&ring=00E6FF&fire=00E6FF&currStreakLabel=00E6FF" />
+  <img src="https://streak-stats.demolab.com/?user=macpanthor&theme=dark&hide_border=true&background=0D1117&stroke=00E6FF&ring=00E6FF&fire=00E6FF&currStreakLabel=00E6FF" />
 </p>
 
 ---
