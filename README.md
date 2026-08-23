@@ -29,8 +29,7 @@ I'm a student at **Albukhary International University (AIU), Malaysia**, passion
 - 🎓 **University:** Albukhary International University (AIU)
 - 📍 **Location:** Malaysia
 - 🎯 **Focus:** Cybersecurity & Full-Stack Web Development
-- �️ **GitHub Age:** Joined Dec 7, 2021 — ~4.5 years young! 🎂
-- �🔭 **Currently Working On:** ESP32 Eye Tracking Project
+- 📅 **GitHub Age:** Joined Dec 7, 2021 — ~4.5 years young! 🎂
 - 🌱 **Learning:** Embedded Systems & Computer Vision
 - ⚡ **Fun Fact:** I built a custom RGB LED desk with 330 WS2812B LEDs controlled by ESP32!
 
@@ -120,6 +119,15 @@ Configured a fully offline local AI environment using **Ollama** on Windows, run
 Built a local AI image generation setup using **ComfyUI** with **SDXL** and **LCM LoRA** for fast inference, plus **4x-UltraSharp** model for AI upscaling. Runs locally on an **RTX 4050 GPU**.
 
 `ComfyUI` `SDXL` `LCM LoRA` `4x-UltraSharp` `Python` `RTX 4050`
+
+---
+
+### 🔗 go.macpanthor.com — URL Shortener & QR Code Generator
+A self-hosted URL shortener and QR code generator for the `go.macpanthor.com` subdomain. Generates clean short links with custom aliases, styled 404 pages, QR codes (PNG with disk caching), and atomic click tracking. No third-party services — everything runs on my own host with a dark/cyan theme matching `macpanthor.com`.
+
+`PHP 8` `MySQL` `Apache` `PDO` `endroid/qr-code` `Composer`
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/macpanthor/go-macpanthor)
 
 ---
 
