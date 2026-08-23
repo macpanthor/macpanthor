@@ -14,21 +14,25 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate GitHub contribution grid snake animation
+        uses: Platane/snk@v3
         with:
+          # Your GitHub user name
           github_user_name: ${{ github.repository_owner }}
+          # List of files to generate, with their color palettes
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Push the generated SVG files to the "output" branch where the README can load them from
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update contribution grid snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
