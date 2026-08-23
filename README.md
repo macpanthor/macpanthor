@@ -12,6 +12,9 @@
   <a href="mailto:shuaibahmadh200503@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="mailto:shuiab@macpanthor.com">
+    <img src="https://img.shields.io/badge/Work_Email-00E6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Work Email" />
+  </a>
   <a href="https://github.com/macpanthor">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -152,7 +155,7 @@ Built a local AI image generation setup using **ComfyUI** with **SDXL** and **LC
 
 - 🌐 **Portfolio:** [macpanthor.github.io](https://macpanthor.github.io/)
 - 💼 **LinkedIn:** [shuaibahamad](https://www.linkedin.com/in/shuaibahamad)
-- 📧 **Email:** [shuaibahmadh200503@gmail.com](mailto:shuaibahmadh200503@gmail.com)
+- 📧 **Email:** [shuaibahmadh200503@gmail.com](mailto:shuaibahmadh200503@gmail.com) · [shuiab@macpanthor.com](mailto:shuiab@macpanthor.com)
 - 🐙 **GitHub:** [@macpanthor](https://github.com/macpanthor)
 
 ---
