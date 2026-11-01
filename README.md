@@ -26,12 +26,22 @@
 
 I'm a student at **Albukhary International University (AIU), Malaysia**, passionate about building web systems, experimenting with hardware, and pursuing a career in **cybersecurity**. I love turning ideas into real projects — from hostel management systems to custom LED builds and 3D printed designs.
 
-- 🎓 **University:** Albukhary International University (AIU)
+- 🎓 **University:** Albukhary International University (AIU) — BSc Computer Science (Honours), Oct 2026 – Present
 - 📍 **Location:** Malaysia
 - 🎯 **Focus:** Cybersecurity & Full-Stack Web Development
 - 📅 **GitHub Age:** Joined Dec 7, 2021 — ~4.5 years young! 🎂
 - 🌱 **Learning:** Embedded Systems & Computer Vision
 - ⚡ **Fun Fact:** I built a custom RGB LED desk with 330 WS2812B LEDs controlled by ESP32!
+
+---
+
+## 🎓 Education
+
+**Albukhary International University (AIU)** — Malaysia
+*Bachelor's Degree, Computer Science (Honours)*
+📅 **Oct 2026 – Present**
+
+Coursework and self-driven work spanning full-stack web development, databases, embedded systems, and cybersecurity.
 
 ---
 
